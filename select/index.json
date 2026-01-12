@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "願い〜あの頃のキミへ〜",
+  "base_artist": "當山　みれい",
+  "createdAt": "2026-01-12T15:52:42.228730Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "願い~あの頃のキミへ~",
+      "artist": "Mirei Toyama",
+      "has_synced": true,
+      "path": "select/01_願い~あの頃のキミへ~_Mirei_Toyama.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "願い〜あの頃のキミへ〜",
+      "artist": "當山みれい",
+      "has_synced": true,
+      "path": "select/02_願い〜あの頃のキミへ〜_當山みれい.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "願い〜あの頃のキミへ〜 (祈愿～致那个时候的你～)",
+      "artist": "當山みれい",
+      "has_synced": true,
+      "path": "select/03_願い〜あの頃のキミへ〜_(祈愿~致那个时候的你~)_當山みれい.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "願い〜あの頃のキミへ〜 Acoustic ver.",
+      "artist": "MIREI",
+      "has_synced": false,
+      "path": "select/04_願い〜あの頃のキミへ〜_Acoustic_ver._MIREI.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "願い～あの頃のキミへ～ - Negai - Ano Koro No Kimie (feat. RINZO)",
+      "artist": "MIREI",
+      "has_synced": true,
+      "path": "select/05_願い~あの頃のキミへ~_-_Negai_-_Ano_Koro_No_Kimie_(feat._RINZO)_MIREI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "願い～あの頃のキミへ～ (feat. RINZO)",
+      "artist": "MIREI",
+      "has_synced": true,
+      "path": "select/06_願い~あの頃のキミへ~_(feat._RINZO)_MIREI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "願い~あの頃のキミへ~ Acoustic ver.",
+      "artist": "當山みれい",
+      "has_synced": false,
+      "path": "select/07_願い~あの頃のキミへ~_Acoustic_ver._當山みれい.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "願い~あの頃のキミへ~",
+      "artist": "當山みれい",
+      "has_synced": true,
+      "path": "select/08_願い~あの頃のキミへ~_當山みれい.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "願い~あの頃のキミへ~",
+      "artist": "當山みれい",
+      "has_synced": false,
+      "path": "select/pl_01_願い~あの頃のキミへ~_當山みれい.txt"
+    }
+  ]
+}
